@@ -12,3 +12,4 @@ kaniko:
   # lets support insecure docker registries so that we
   # can use the local docker-registry chart
   flags: "--insecure"
+3e8b-197-29-137-174.ngrok.io
