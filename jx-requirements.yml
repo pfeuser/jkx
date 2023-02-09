@@ -30,5 +30,6 @@ spec:
       production: false
   repository: bucketrepo
   secretStorage: vault
-  vault: {}
+  vault: 
+    url: http://pfe:8200
   webhook: lighthouse
